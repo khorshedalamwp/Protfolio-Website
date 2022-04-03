@@ -1,0 +1,690 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.our{
+    float: left;
+    width: 50%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 50px;
+    font-weight: 500;
+}
+.company{
+    float: left;
+    width: 50%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 50px;
+    font-weight: 500;
+}
+.first{
+    background: #0f2f44;
+}
+.two .button i{
+    border: 1px solid #999999;
+    font-size: 20px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    color: #999999;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 15px;
+    margin-right: -24px;
+    margin-left: 28px;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-size: 19px;
+}
+.menu ul li:hover a{
+    color: whitesmoke;
+    background: rgb(179, 153, 170);
+    cursor: progress;
+    padding: 10px;
+}
+.one{
+    color: #bc7f24;
+}
+
+.pic {
+    width: 20%;
+    margin-top: 10px;
+    float: left;
+}
+
+.menu {
+    width: 60%;
+    float: left;
+}
+
+.button {
+    width: 20%;
+    float: left;
+    margin-top: -1px;
+    margin-right: 0px;
+}
+.clr{
+    clear:both;
+}
+
+ul {
+    text-align: center;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+    text-align: center;
+}
+.list li{
+    margin-top: 20px;
+}
+
+a {
+    font-size: 16px;
+    margin-left: 62px;
+    color: black;
+    text-decoration: none;
+    
+}
+.two .button i:hover{
+    color:red;
+    background: rgb(145, 224, 158);
+    transition: .5s;
+    cursor:pointer;
+}
+
+.third{
+    background: url(../img/background.png);
+    height: 470px;
+}
+.tittle{
+    width: 40%;
+}
+.bttn a{
+    font-size: 20px;
+    box-shadow: 0px 0px 5px;
+    margin-left: -1px;
+    padding: 8px;
+    text-decoration: none;
+    color: #bc7f24;
+    border-radius: 5%;
+    background: #6f42c1;
+    
+}
+.bttn a:hover{
+    background: violet;
+    color: whitesmoke;
+    cursor: pointer;
+    transition: .4s;
+}
+.bttn i:hover{
+    color: red;
+    cursor: pointer;
+    background: #342e8f;
+}
+
+section.third {
+    margin-top: 17px;
+}
+
+h2.your {
+    width: 5%;
+    font-size: 58px;
+    font-family: 'Open Sans', sans-serif;
+}
+.tittle .ambition{
+    letter-spacing: 12px;
+    color: #aab0d8;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+p.lorem {
+    font-size: 17px;
+    line-height: 25px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3.succes {
+    font-size: 47px;
+    text-transform: uppercase;
+    font-family: 'Abril Fatface', cursive;
+}
+
+i.fas.fa-play {
+    margin-left: 49px;
+    border: 1px solid #999999;
+    font-size: 14px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    color: #3e18e6;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 12px;
+}
+.about-text{
+    width: 50%;
+    float: left;
+}
+
+.about-img{
+    width: 50%;
+    float: left;
+}
+
+section.four {
+    margin-top: 122px;
+}
+
+p.us {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 37px;
+}
+.list{
+    text-align: left;
+    margin-left: 37px;
+}
+.list li{
+    display: block;
+    text-align: left;
+    font-size: 18px;
+}
+
+section.two {
+    margin-top: 10px;
+}
+.about-bttn{
+    text-decoration: none;
+    font-size: 20px;
+    background: #fff;
+    padding: 7px;
+    border-radius: 5%;
+    box-shadow: 1px 1px 2px 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+.about-bttn:hover{
+    background: #ffc107;
+    transition: .5s;
+}
+.bttn2 a{
+    text-decoration: none;
+}
+.bttn2 {
+    margin-top: 46px;
+    margin-left: -51px;
+}
+.what{
+    text-align: center;
+    margin-top: 20px;
+    margin: 0px;
+}
+.our2{
+    font-size: 20px;
+    margin-bottom: -47px;
+    margin: 0px;
+    font-family: 'Abril Fatface';
+    font-size: 27px;
+    margin-top: 8px;
+    text-align: center;
+}
+.img img{
+    margin-top: 75px;
+}
+
+/*=================================start services part=====================================--*/
+
+.text5 {
+    text-align: center;
+    margin-top: 89px;
+}
+
+section.five {
+    background: #80808024;
+    margin-top: 58px;
+}
+.services{
+    width: 100%;
+    height: 200px;
+    margin-top: 20px;
+}
+.items{
+    width: 32%;
+    background: whitesmoke;
+    margin-right: 15px;
+    height: 200px;
+    float: left;
+    position: relative;
+}
+.overlay{
+    width: 0%;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    background: #0f2f44;
+    transition: .5s;
+    position: absolute;
+    opacity: 0;
+}
+
+.overlay h2{
+    text-align: center;
+    margin-bottom: 10px;
+    color: whitesmoke;
+}
+.items:hover .overlay{
+    width: 100%;
+    opacity: 1;
+}
+.overlay img{
+    width: auto;
+    text-align: center;
+    margin-left: 167px;
+    margin-top: 69px;
+    
+}
+.items .img .text{
+    float: left;
+}
+.items .img {
+    float: left;
+    width: 30%;
+    height: 100%;
+    background: #dcdcdcad;
+    text-align: center;
+}
+.photo{
+    margin-top: 20px;
+}
+/*--=================================end services part=====================================--*/
+
+.our-img{
+    width:100%;
+    height:200px;
+}
+.portfolio-img{
+    float: left;
+    margin-right: 10px;
+    position: relative;
+}
+.girl{
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+    background: cornsilk;
+    color: black;
+    font-size: 17px;
+    padding: 5px;
+    opacity:0;
+    transition: .5s;
+    box-shadow: 1px 2px 3px;
+}
+.girl:hover{
+    opacity:1;
+    cursor: grabbing;
+}
+
+.overlay2 {
+    margin-top: 9px;
+}
+
+section.protfolio-section {
+    margin-top: 95px;
+}
+
+.our-img {
+    margin-top: 39px;
+    margin-left: 68px;
+}
+.portfolio-btn a{text-align: center;background: cornsilk;padding: 15px;border-radius: 5px;text-decoration: none;margin-right: 67px;}
+
+.portfolio-btn {
+    margin-top: 345px;
+    transition: .5s;
+    text-align: center;
+}
+.portfolio-btn:hover a{
+   background: #ffc107;
+}
+      /*  testimonial*/
+
+.text5 {
+    margin-top: 24px;
+}
+.testimonial{
+    display: flex;
+    margin-top: 37px;
+}
+.testimonial-section{
+    background: #f5f5f5;
+    width: 100%;
+    height: 350px;
+    margin-top: 87px;
+}
+.about-testimonial {
+    width: 50%;
+    display:flex;
+    background: white;
+    margin-right: 13px;
+}
+
+.testimonial-img {
+    width: 35%
+}
+.testimonial-img img{
+    width: 100%;
+}
+
+.testimonial-text {
+  width:65%;
+  margin-left: 24px;
+  margin-top: 12px;
+}
+
+p.luis {
+    font-size: 28px;
+    color: lightblue;
+}
+
+p.ceo {
+    font-size: 3;
+    font-size: 20px;
+    color: hotpink;
+}
+
+/*====================================blog-section=============================================*/
+
+
+.blog-section{
+    width: 100%;
+    height:700px;
+
+}
+.our-blog{
+    width: 30%;
+    background-color: gainsboro;
+    height: 450px;
+    float: left;
+    margin-left: 35px;
+    margin-top: 52px;
+    border-radius: 2%;
+}
+
+.our-blog:hover{
+    background: #212529;
+    color: ghostwhite;
+    cursor: pointer;
+}
+
+.our-blog:hover .read{
+    color: white;
+}
+
+.img-blg img{
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 17px;
+   
+}
+
+p.date {
+    margin-left: 21px;
+    margin-top: 13px;
+    font-size: 14px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.blog-btn{
+    margin-top: 56px;
+    width: 100%;
+    text-align: center;
+
+}
+
+.blog-btn a{
+   width: 10%;
+   text-decoration: none;
+   font-size: 25px;
+   background: whitesmoke;
+   padding: 10px;
+   border-radius: 5%;
+}
+
+.blog-btn a:hover{
+    background: #ffc107;
+}
+
+p.should {
+    margin-left: 19px;
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+
+a.read {
+    text-decoration: none;
+    margin-left: 18px;
+}
+
+
+
+
+/*--================================= start footer-area=====================================--*/
+
+.footer-area{
+    width: 100%;
+    background-color: whitesmoke;
+    height: 300px;
+}
+
+.footer {
+    width: 100%;
+    background: whitesmoke;
+    height: 300px;
+    display: flex;
+}
+.logo-f{
+    width: 23%;
+    margin-right: 33px;
+}
+
+.logo-f img{
+    margin-top: 10px;
+}
+
+.logo-f p{
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+.logo-f i{
+    border: 1px solid #0e0d0d;
+    font-size: 25px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    color: #0a0a0a;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 15px;
+    margin-right: -24px;
+    margin-left: 28px;
+}
+
+.contact-f{
+    width: 19%;
+    margin-right: 15px;
+}
+
+.icon-f{
+    width:10%;
+    display: inline-block;
+}
+.icon-f{
+    margin-top: 10px;
+    margin-bottom: -165px;
+}
+
+.icons-f .fab fa-facebook-f:hover i{
+    background:#0a0a0a ;
+    color: whitesmoke;
+    transition: .5s;
+    cursor: pointer;
+}
+
+
+.icons-f:hover i{
+    background:#0a0a0a ;
+    color: whitesmoke;
+    transition: .5s;
+    cursor: pointer;
+}
+
+
+.icons-f {
+    margin-top: 28px;
+    margin-left: -34px;
+}
+
+i.fas.fa-map-marker-alt {
+    margin-bottom: 78px;
+    font-size: 20px;
+}
+
+i.far.fa-envelope {
+    margin-bottom: 65px;
+    font-size: 20px;
+}
+
+i.fas.fa-phone {
+    font-size: 20px;
+ 
+}
+.text-f{
+    width: 80%;
+    display: inline-block;
+    
+}
+
+.text-f p{
+    margin-bottom: 43px; 
+}
+
+.important-f{
+    width: 23%;
+}
+
+
+.important-f{
+    font-size: 25px;
+    margin-right: 13px;
+}
+.important-f ul li{
+    display: block;
+    text-align: left;
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+.important-f ul li:hover{
+     margin-left: 15px;
+     transform: .5s;
+     cursor: pointer;
+}
+.stream-f{
+    width: 28%;
+}
+
+.stream-img img{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    height: 100px;
+}
+
+.stream-img{
+    display: flex;
+    width:25%;
+    height: 100px;
+    margin-bottom: 11px;
+    margin-left: -34px;
+}
+
+.stream-f h4{
+    margin-left: -26px;
+}
+
+
+/*--================================= End footer-area=====================================--*/
+
+
+/*--================================= startlast-area=====================================--*/
+
+ .last-area{
+     width: 100%;
+     background: whitesmoke;
+     height: 50px;
+     box-shadow: 3px 2px 4px 1px;
+ }
+
+ .last1{
+    display: flex;
+    margin-top: 15px;
+ }
+
+ .copyright{
+     width: 40%;
+     text-align: right;
+     float: left;
+ }
+
+ .copyright span{
+     color: #fcc512;
+ }
+ .right{
+     width: 20%;
+     text-align: center;
+ }
+
+ .designed{
+     width: 40%;
+     text-align: left;
+
+ }
+
+ .designed span{
+    color: #fcc512;
+ }
+
+/*--================================= End last-area=====================================--*/
+
+
+
+
+.bg-shape2{
+    background-image: url(../img/logo.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    position: absolute;
+    width: 100%;
+    height:10%;
+    right: 60px;
+    bottom: -20px;
+    z-index: -2;
+    -webkit-animation: bg-shape-rotate 10s infinite linear;
+    animation: bg-shape-rotate 10s infinite linear;
+	overflow:hidden;
+}
+
+.shape{
+    width: 50%;
+    background-color: red;
+    height: 200px;
+}

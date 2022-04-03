@@ -1,0 +1,19 @@
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+
+  a {
+    background: red;
+   
+}
+.menu li {
+  width: 100%;
+}
+
+
+
+.our-blog {
+  width: 100%;
+}
+}
